@@ -261,7 +261,7 @@
   },
   {
     "pergunta": "O personagem de 'Senhor' está satisfeito com a ação do pai?",
-    ".": "Não"
+    "resposta": "Não"
   },
   {
     "pergunta": "Qual é a reação do velho fidalgo para os seus filhos",
@@ -353,7 +353,7 @@
   },
   {
     "pergunta": "O que fez a moça se estremecer na cabana?",
-    ".": "Tinha visto a luz das estrelas passar um vulto que ela reconheceu pela alvura de sua túnica de algodão, e pelas formas esbeltas e flexíveis; quando o vulto entrou na cabana, não lhe restou a menor dúvida. Era Peri."
+    "resposta": "Tinha visto a luz das estrelas passar um vulto que ela reconheceu pela alvura de sua túnica de algodão, e pelas formas esbeltas e flexíveis; quando o vulto entrou na cabana, não lhe restou a menor dúvida. Era Peri."
   },
   {
     "pergunta": "Quem eram os aventureiros que se reuniram em torno da longa mesa?",
@@ -473,7 +473,7 @@
   },
   {
     "pergunta": "Quem é Peri e o que faz na cena?",
-    ".": "Peri é um índio com seu arco e arma terrível, sentado longe do rio, cercando as áreas onde as moças se banham."
+    "resposta": "Peri é um índio com seu arco e arma terrível, sentado longe do rio, cercando as áreas onde as moças se banham."
   },
   {
     "pergunta": "Por que o índio mantinha uma vigilância tão constante e infatigável em relação a Cecília?",
@@ -705,7 +705,7 @@
   },
   {
     "pergunta": "Quem era o cãozinho na cena?",
-    ".": ""
+    "resposta": ""
   },
   {
     "pergunta": "Examinou com inquietação o animal; e não o vendo ferido, lançou os olhos ao redor de si e soltou um grito rouco e gutural?",
@@ -729,7 +729,7 @@
   },
   {
     "pergunta": "O que Peri encontrou em um lugar que parecia estar sendo cavado?",
-    ".": "Um montículo de barro gretado com uma entrada de formigueiro."
+    "resposta": "Um montículo de barro gretado com uma entrada de formigueiro."
   },
   {
     "pergunta": "Onde estava Loredano quando os outros dois chegaram?",
@@ -928,7 +928,7 @@
   },
   {
     "pergunta": "Quem foi o aventureiro que saiu do lagar no dia seguinte?",
-    ".": "O aventureiro era um homem destemido e audaz, com traços de identidade reconhecíveis pelo carmelita Fr. Ângelo di Luca."
+    "resposta": "O aventureiro era um homem destemido e audaz, com traços de identidade reconhecíveis pelo carmelita Fr. Ângelo di Luca."
   },
   {
     "pergunta": "Quem era o aventureiro que deixou um segredo no seio da terra?",
@@ -944,7 +944,7 @@
   },
   {
     "pergunta": "O que D. Antônio de Mariz fez em momentos de perigo para Cecília?",
-    ".": "Tomou sua filha nos braços e arrancou-a da morte com uma força e impetuosidade extremas."
+    "resposta": "Tomou sua filha nos braços e arrancou-a da morte com uma força e impetuosidade extremas."
   },
   {
     "pergunta": "O que D. Antônio sentia quando salvou sua filha?",
@@ -976,7 +976,7 @@
   },
   {
     "pergunta": "Quem foi a personagem que Peri viu ao longe do rio?",
-    ".": "A filha da senhora"
+    "resposta": "A filha da senhora"
   },
   {
     "pergunta": "Quem ofereceu o arco ao guerreiro branco?",
@@ -1048,7 +1048,7 @@
   },
   {
     "pergunta": "O que Cecília disse ao índio após ele salvá-la da janela?",
-    ".": "Ela disse que não tinha que temer do homem que a salvara a vida."
+    "resposta": "Ela disse que não tinha que temer do homem que a salvara a vida."
   },
   {
     "pergunta": "O índio apresentou ao rosto da menina uma caixa de palha que continha um enxame de beija-flores?",
@@ -1208,7 +1208,7 @@
   },
   {
     "pergunta": "Onde Álvaro aprendera a poesia?",
-    ".": "A natureza brasileira"
+    "resposta": "A natureza brasileira"
   },
   {
     "pergunta": "O poeta é considerado um 'poeta primitivo' porque ele canta a natureza na mesma linguagem da natureza?",
@@ -1463,7 +1463,7 @@
   },
   {
     "pergunta": "O que o índio sentiu após sentir-se vencido pela dor?",
-    ".": "A palavra não sabe o segredo das tormentas profundas de uma alma forte e vigorosa."
+    "resposta": "A palavra não sabe o segredo das tormentas profundas de uma alma forte e vigorosa."
   },
   {
     "pergunta": "O fidalgo entregou ao índio um papel com informações sobre D. Antônio de Mariz e seus herdeiros?",
@@ -1615,7 +1615,7 @@
   },
   {
     "pergunta": "O personagem Álvaro se sentiu comovido porque ele não estava disposto a lutar para evitá-lo?",
-    ".": "Não, ele estava sozinho e desesperado."
+    "resposta": "Não, ele estava sozinho e desesperado."
   },
   {
     "pergunta": "O que Álvaro sente para com D. Isabel?",
@@ -1703,7 +1703,7 @@
   },
   {
     "pergunta": "Quem é Loredano?",
-    ".": "Loredano é um personagem literário que vive em um claustro deserto e tem uma sede intensa de gozo."
+    "resposta": "Loredano é um personagem literário que vive em um claustro deserto e tem uma sede intensa de gozo."
   },
   {
     "pergunta": "Deve fugir e salvar o seu tesouro perdendo Cecília, ou deve ficar e arriscar a vida para saciar o seu desejo infrene?",
@@ -2069,7 +2069,7 @@
   },
   {
     "pergunta": "O que aconteceu com o réprobo quando ele viu Peri?",
-    ".": "Ele ficou cego, louco e delirante."
+    "resposta": "Ele ficou cego, louco e delirante."
   },
   {
     "pergunta": "O índio estava tão feliz em salvar Cecília que",
@@ -2185,7 +2185,7 @@
   },
   {
     "pergunta": "O que os aventureiros estão pedindo respeito?",
-    ".": "Queremos ser tratados com respeito!"
+    "resposta": "Queremos ser tratados com respeito!"
   },
   {
     "pergunta": "O que D. Antônio de Mariz está dizendo para os vilões?",
@@ -2201,7 +2201,7 @@
   },
   {
     "pergunta": "Quem foi o personagem que desafiou D. Antônio?",
-    ".": "O aventureiro Loredano"
+    "resposta": "O aventureiro Loredano"
   },
   {
     "pergunta": "O ferro que há de ferir o peito de D. Antônio de Mariz não será manchado pela mão cobarde e traiçoeira de vis assassinos?",
@@ -2393,7 +2393,7 @@
   },
   {
     "pergunta": "O que disse Martim ao entrar no gabinete de armas?",
-    ".": "Não é com duas razões que a deitaremos dentro!"
+    "resposta": "Não é com duas razões que a deitaremos dentro!"
   },
   {
     "pergunta": "Como remover o obstáculo que lhe aparecia?",
@@ -2489,7 +2489,7 @@
   },
   {
     "pergunta": "O que Peri pediu ao pai?",
-    ".": "Ele queria que o pai evitasse uma morte voluntária."
+    "resposta": "Ele queria que o pai evitasse uma morte voluntária."
   },
   {
     "pergunta": "Podia o escravo resistir a uma súplica de sua senhora e causar-lhe uma mágoa, quando toda a sua vida fora destinada a fazê-la alegre e feliz? ",
@@ -2681,7 +2681,7 @@
   },
   {
     "pergunta": "O índio Peri apresentava uma expressão de júbilo e serenidade no rosto após a morte, parece que ele estava preparado para?",
-    ".": "lançar-se no espaço para ir se abrigar no seio do Criador"
+    "resposta": "lançar-se no espaço para ir se abrigar no seio do Criador"
   },
   {
     "pergunta": "O som que se ouviu na floresta foi causado por?",
@@ -2877,7 +2877,7 @@
   },
   {
     "pergunta": "O que aconteceu com Peri após ele se retirar para a floresta?",
-    ".": "Peri estava muito doente e fracasso, mas depois de coletar frutos, ele sentiu um vigor novo e mergulhou no rio e ficou outro homem."
+    "resposta": "Peri estava muito doente e fracasso, mas depois de coletar frutos, ele sentiu um vigor novo e mergulhou no rio e ficou outro homem."
   },
   {
     "pergunta": "O que Peri ouviu durante o combate entre Álvaro e os Aimorés?",
@@ -2941,7 +2941,7 @@
   },
   {
     "pergunta": "Quem estava apoiado à entrada da porta, junto com sua mulher?",
-    ".": "Antônio de Mariz"
+    "resposta": "Antônio de Mariz"
   },
   {
     "pergunta": "Os selvagens abateram a árvore, e cortaram assim a única passagem por onde um homem poderia sair do rochedo?",
@@ -2993,7 +2993,7 @@
   },
   {
     "pergunta": "Por que você recusa o pedido de Peri?",
-    ".": "resposta"
+    "resposta": "resposta"
   },
   {
     "pergunta": "O índio abaixou a cabeça com abatimento porque?",
@@ -3069,7 +3069,7 @@
   },
   {
     "pergunta": "O que Cecília fez após a oração?",
-    ".": "resposta"
+    "resposta": "resposta"
   },
   {
     "pergunta": "O índio estremeceu, mas desta vez de alegria e de contentamento; veio cair aos pés de sua senhora, que ele encontrava de novo boa como sempre tinha sido. Quem era o índio?",
@@ -3089,7 +3089,7 @@
   },
   {
     "pergunta": "O que aconteceu com a menina em relação ao coração de Peri?",
-    ".": "Ela sentiu pela primeira vez que o coração de Peri palpitava sobre o seu seio."
+    "resposta": "Ela sentiu pela primeira vez que o coração de Peri palpitava sobre o seu seio."
   },
   {
     "pergunta": "O que estava acontecendo com Cecília enquanto Peri remava na proa?",
